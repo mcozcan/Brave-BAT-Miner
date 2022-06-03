@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BraveRefresher", "BraveRefresher\BraveRefresher.csproj", "{1264FB78-65CC-4E2C-AB2D-D1977B3A54BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BMX BAT MINER", "BMX BAT MINER\BMX BAT MINER.vdproj", "{851D0D89-BDBE-4E0F-A989-9C8B7D485E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1264FB78-65CC-4E2C-AB2D-D1977B3A54BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1264FB78-65CC-4E2C-AB2D-D1977B3A54BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1264FB78-65CC-4E2C-AB2D-D1977B3A54BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1264FB78-65CC-4E2C-AB2D-D1977B3A54BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851D0D89-BDBE-4E0F-A989-9C8B7D485E72}.Debug|Any CPU.ActiveCfg = Debug
+		{851D0D89-BDBE-4E0F-A989-9C8B7D485E72}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B422C0-B996-4B27-B4FF-FB9095E9AB1E}
+	EndGlobalSection
+EndGlobal
